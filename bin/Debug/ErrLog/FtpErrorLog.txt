@@ -1,0 +1,244 @@
+[2021/01/08 11:49:52] 対象のコンピューターによって拒否されたため、接続できませんでした。 ::1:1234
+[2021/01/08 01:36:31] 対象のコンピューターによって拒否されたため、接続できませんでした。 ::1:1234
+[2021/01/08 01:36:46] 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'This FtpClient object has been disposed. It is no longer accessible.' です。
+[2021/01/08 01:36:46] 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'This FtpClient object has been disposed. It is no longer accessible.' です。
+[2021/01/08 01:36:51] 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'This FtpClient object has been disposed. It is no longer accessible.' です。
+[2021/01/08 01:53:20] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:53:33] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:53:41] 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'This FtpClient object has been disposed. It is no longer accessible.' です。
+[2021/01/08 01:53:43] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:53:43] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:53:43] 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'This FtpClient object has been disposed. It is no longer accessible.' です。
+[2021/01/08 01:53:43] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:53:43] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:53:43] 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'This FtpClient object has been disposed. It is no longer accessible.' です。
+[2021/01/08 01:53:47] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:53:47] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:53:47] 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'This FtpClient object has been disposed. It is no longer accessible.' です。
+[2021/01/08 01:53:57] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:53:57] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:53:57] 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'This FtpClient object has been disposed. It is no longer accessible.' です。
+[2021/01/08 01:55:44] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:50] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:50] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:50] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:50] 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'This FtpClient object has been disposed. It is no longer accessible.' です。
+[2021/01/08 01:55:53] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:53] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:53] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:53] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:53] 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'This FtpClient object has been disposed. It is no longer accessible.' です。
+[2021/01/08 01:55:53] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:53] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:53] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:53] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:53] 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'This FtpClient object has been disposed. It is no longer accessible.' です。
+[2021/01/08 01:55:59] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:59] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:59] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:59] Error while uploading the file to the server. See InnerException for more info.
+[2021/01/08 01:55:59] 破棄されたオブジェクトにアクセスできません。
+オブジェクト名 'This FtpClient object has been disposed. It is no longer accessible.' です。
+[2021/01/21 03:04:15] 対象のコンピューターによって拒否されたため、接続できませんでした。 ::1:1234
+[2021/01/21 03:04:23] 対象のコンピューターによって拒否されたため、接続できませんでした。 ::1:1234
+[2021/01/21 03:04:25] 対象のコンピューターによって拒否されたため、接続できませんでした。 ::1:1234
+[2021/01/21 03:04:34] 対象のコンピューターによって拒否されたため、接続できませんでした。 ::1:1234
+[2021/01/21 03:49:00] Timed out trying to connect!
+[2021/01/21 03:49:08] Timed out trying to connect!
+[2021/01/21 03:49:13] Timed out trying to connect!
+[2021/01/21 03:49:18] Timed out trying to connect!
+[2021/01/21 03:49:26] Timed out trying to connect!
+[2021/01/21 03:49:36] Timed out trying to connect!
+[2021/01/21 03:49:46] Timed out trying to connect!
+[2021/01/21 03:49:56] Timed out trying to connect!
+[2021/01/21 03:50:06] Timed out trying to connect!
+[2021/01/21 03:50:16] Timed out trying to connect!
+[2021/01/21 03:50:26] Timed out trying to connect!
+[2021/01/21 03:50:36] Timed out trying to connect!
+[2021/01/21 03:50:46] Timed out trying to connect!
+[2021/01/21 03:50:56] Timed out trying to connect!
+[2021/01/21 03:51:06] Timed out trying to connect!
+[2021/01/21 03:51:16] Timed out trying to connect!
+[2021/01/21 03:51:26] Timed out trying to connect!
+[2021/01/21 03:51:36] Timed out trying to connect!
+[2021/01/21 03:51:46] Timed out trying to connect!
+[2021/01/21 03:51:56] Timed out trying to connect!
+[2021/01/21 03:52:06] Timed out trying to connect!
+[2021/01/21 03:52:16] Timed out trying to connect!
+[2021/01/21 03:52:26] Timed out trying to connect!
+[2021/01/21 03:52:36] Timed out trying to connect!
+[2021/01/21 03:52:46] Timed out trying to connect!
+[2021/01/21 03:52:56] Timed out trying to connect!
+[2021/01/21 03:53:06] Timed out trying to connect!
+[2021/01/21 03:53:16] Timed out trying to connect!
+[2021/01/21 03:53:26] Timed out trying to connect!
+[2021/01/21 03:53:36] Timed out trying to connect!
+[2021/01/21 03:53:46] Timed out trying to connect!
+[2021/01/21 03:53:56] Timed out trying to connect!
+[2021/01/21 03:54:06] Timed out trying to connect!
+[2021/01/21 03:54:16] Timed out trying to connect!
+[2021/01/21 03:54:26] Timed out trying to connect!
+[2021/01/21 03:54:36] Timed out trying to connect!
+[2021/01/21 03:54:46] Timed out trying to connect!
+[2021/01/21 03:54:56] Timed out trying to connect!
+[2021/01/21 03:55:06] Timed out trying to connect!
+[2021/01/21 03:55:16] Timed out trying to connect!
+[2021/01/21 03:55:26] Timed out trying to connect!
+[2021/01/21 03:55:36] Timed out trying to connect!
+[2021/01/21 03:55:46] Timed out trying to connect!
+[2021/01/21 03:55:56] Timed out trying to connect!
+[2021/01/21 03:56:06] Timed out trying to connect!
+[2021/01/21 03:56:16] Timed out trying to connect!
+[2021/01/21 03:56:26] Timed out trying to connect!
+[2021/01/21 03:56:36] Timed out trying to connect!
+[2021/01/21 03:56:46] Timed out trying to connect!
+[2021/01/21 03:56:56] Timed out trying to connect!
+[2021/01/21 03:57:06] Timed out trying to connect!
+[2021/01/21 03:57:16] Timed out trying to connect!
+[2021/01/21 03:57:26] Timed out trying to connect!
+[2021/01/21 03:57:36] Timed out trying to connect!
+[2021/01/21 03:57:46] Timed out trying to connect!
+[2021/01/21 03:57:56] Timed out trying to connect!
+[2021/01/21 03:58:06] Timed out trying to connect!
+[2021/01/21 03:58:16] Timed out trying to connect!
+[2021/01/21 03:58:26] Timed out trying to connect!
+[2021/01/21 03:58:36] Timed out trying to connect!
+[2021/01/21 03:58:46] Timed out trying to connect!
+[2021/01/21 03:58:56] Timed out trying to connect!
+[2021/01/21 03:59:06] Timed out trying to connect!
+[2021/01/21 03:59:16] Timed out trying to connect!
+[2021/01/21 03:59:26] Timed out trying to connect!
+[2021/01/21 03:59:36] Timed out trying to connect!
+[2021/01/21 03:59:46] Timed out trying to connect!
+[2021/01/21 03:59:56] Timed out trying to connect!
+[2021/01/21 04:00:06] Timed out trying to connect!
+[2021/01/21 04:00:16] Timed out trying to connect!
+[2021/01/21 04:00:26] Timed out trying to connect!
+[2021/01/21 04:00:36] Timed out trying to connect!
+[2021/01/21 04:00:46] Timed out trying to connect!
+[2021/01/21 04:00:56] Timed out trying to connect!
+[2021/01/21 04:01:06] Timed out trying to connect!
+[2021/01/21 04:01:16] Timed out trying to connect!
+[2021/01/21 04:01:26] Timed out trying to connect!
+[2021/01/21 04:01:36] Timed out trying to connect!
+[2021/01/21 04:01:46] Timed out trying to connect!
+[2021/01/21 04:01:56] Timed out trying to connect!
+[2021/01/21 04:02:06] Timed out trying to connect!
+[2021/01/21 04:02:16] Timed out trying to connect!
+[2021/01/21 04:02:26] Timed out trying to connect!
+[2021/01/21 04:02:36] Timed out trying to connect!
+[2021/01/21 04:02:46] Timed out trying to connect!
+[2021/01/21 04:02:56] Timed out trying to connect!
+[2021/01/21 04:03:06] Timed out trying to connect!
+[2021/01/21 04:03:16] Timed out trying to connect!
+[2021/01/21 04:03:26] Timed out trying to connect!
+[2021/01/21 04:03:36] Timed out trying to connect!
+[2021/01/21 04:03:46] Timed out trying to connect!
+[2021/01/21 04:03:56] Timed out trying to connect!
+[2021/01/21 04:04:06] Timed out trying to connect!
+[2021/01/21 04:04:16] Timed out trying to connect!
+[2021/01/21 04:04:26] Timed out trying to connect!
+[2021/01/21 04:04:36] Timed out trying to connect!
+[2021/01/21 04:04:46] Timed out trying to connect!
+[2021/01/21 04:04:56] Timed out trying to connect!
+[2021/01/21 04:05:06] Timed out trying to connect!
+[2021/01/21 04:05:16] Timed out trying to connect!
+[2021/01/21 04:05:26] Timed out trying to connect!
+[2021/01/21 04:05:36] Timed out trying to connect!
+[2021/01/21 04:05:46] Timed out trying to connect!
+[2021/01/21 04:05:56] Timed out trying to connect!
+[2021/01/21 04:06:06] Timed out trying to connect!
+[2021/01/21 04:06:16] Timed out trying to connect!
+[2021/01/21 04:06:26] Timed out trying to connect!
+[2021/01/21 04:06:36] Timed out trying to connect!
+[2021/01/21 04:06:41] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:06:51] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:07:01] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:07:11] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:07:21] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:07:31] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:07:41] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:07:51] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:08:01] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:08:11] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:08:21] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:08:31] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:08:41] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:08:51] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:09:01] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:09:11] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:09:21] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:09:31] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:09:41] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:09:51] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:10:01] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:10:11] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:10:21] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:10:31] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:10:41] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:10:51] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:11:01] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:11:11] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:11:21] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:11:31] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:11:41] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:11:51] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:12:01] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:12:11] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:12:21] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:12:31] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:12:41] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:12:51] 到達できないホストに対してソケット操作を実行しようとしました。 192.168.40.5:21
+[2021/01/21 04:13:01] AUTH TLS command failed.
+[2021/01/21 04:13:11] AUTH TLS command failed.
+[2021/01/21 04:13:21] AUTH TLS command failed.
+[2021/01/21 04:13:31] AUTH TLS command failed.
+[2021/01/21 04:13:41] AUTH TLS command failed.
+[2021/01/21 04:13:51] AUTH TLS command failed.
+[2021/01/21 04:14:01] AUTH TLS command failed.
+[2021/01/21 04:14:11] AUTH TLS command failed.
+[2021/01/21 04:14:21] AUTH TLS command failed.
+[2021/01/21 04:14:31] AUTH TLS command failed.
+[2021/01/21 04:14:41] AUTH TLS command failed.
+[2021/01/21 04:14:51] AUTH TLS command failed.
+[2021/01/21 04:15:01] AUTH TLS command failed.
+[2021/01/21 04:15:31] Timed out trying to connect!
+[2021/01/21 04:15:36] Timed out trying to connect!
+[2021/01/21 04:15:41] Timed out trying to connect!
+[2021/01/21 04:15:46] Timed out trying to connect!
+[2021/01/21 04:15:56] Timed out trying to connect!
+[2021/01/21 04:16:06] Timed out trying to connect!
+[2021/01/21 04:16:16] Timed out trying to connect!
+[2021/01/21 04:16:26] Timed out trying to connect!
+[2021/01/21 04:16:36] Timed out trying to connect!
+[2021/01/21 04:16:46] Timed out trying to connect!
+[2021/01/21 04:16:56] Timed out trying to connect!
+[2021/01/21 04:17:06] Timed out trying to connect!
+[2021/01/21 04:51:04] AUTH TLS command failed.
+[2021/01/21 04:51:52] AUTH TLS command failed.
+[2021/01/21 04:51:54] AUTH TLS command failed.
+[2021/01/21 04:52:04] AUTH TLS command failed.
+[2021/01/21 04:53:29] AUTH TLS command failed.
+[2021/01/21 04:53:29] AUTH TLS command failed.
+[2021/01/21 04:53:39] AUTH TLS command failed.
+[2021/01/21 04:53:49] AUTH TLS command failed.
+[2021/01/21 04:53:59] AUTH TLS command failed.
+[2021/01/21 04:55:59] AUTH TLS command failed.
+[2021/01/21 04:56:02] AUTH TLS command failed.
+[2021/01/21 05:00:33] AUTH TLS command failed.
+[2021/01/21 05:01:51] AUTH TLS command failed.
+[2021/01/21 05:07:53] AUTH TLS command failed.
+[2021/01/21 05:10:54] AUTH TLS command failed.
+[2021/01/21 05:15:03] AUTH TLS command failed.
+[2021/01/21 05:15:13] AUTH TLS command failed.
