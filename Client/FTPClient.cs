@@ -32,8 +32,15 @@ namespace FTPTransfer
             const string INI_FTP_SERVER_PORT_KEY = "FtpServerPort";
             const string INI_FTP_LOGIN_USER_NAME = "FtpUserName";
             const string INI_FTP_LOGIN_PASSWORD = "FtpPassword";
+            const string INI_EXPLICT_SET = "ExploctSet";
+            const string INI_PROTOCOL = "Protocol";
+            // Explicit設定
+            _Client.EncryptionMode = FtpEncryptionMode.None;//none
+            // プロトコルはTls
+            _Client.SslProtocols = SslProtocols.None;//tls
 
-            string strReadStr1, strReadStr2;
+
+            string strReadStr1, strReadStr2, strReadStr3;
             int mReadvalue;
 
             // INIファイルからFTPサーバー情報とアクセスパラメータを読み込み
@@ -77,9 +84,13 @@ namespace FTPTransfer
             // 要求の完了後に接続を閉じる
             _Client.SocketKeepAlive = false;
             // Explicit設定
-            _Client.EncryptionMode = FtpEncryptionMode.None;//none
-            // プロトコルはTls
-            _Client.SslProtocols = SslProtocols.None;//tls
+            mReadvalue = IniFile.GetValueInt(INI_SECTION, INI_EXPLICT_SET);
+            _Client.EncryptionMode = (FtpEncryptionMode)mReadvalue;// FtpEncryptionMode.None;//none
+            
+            // プロトコルはNone
+            mReadvalue = IniFile.GetValueInt(INI_SECTION, INI_PROTOCOL);
+            _Client.SslProtocols = (SslProtocols)mReadvalue;//SslProtocols.None;//tls
+
             // 接続タイムアウトを5秒に設定
             _Client.ConnectTimeout = 5000;
             // 証明書の内容を確認しない

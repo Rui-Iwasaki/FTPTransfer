@@ -12,11 +12,10 @@ C:\Users\kushiyama.t\source\repos\FTPTransfer\obj\Debug\FTPTransfer.exe
 C:\Users\kushiyama.t\source\repos\FTPTransfer\obj\Debug\FTPTransfer.pdb
 C:\Users\iwasaki\Desktop\FTPTransfer\bin\Debug\FTPTransfer.exe
 C:\Users\iwasaki\Desktop\FTPTransfer\bin\Debug\FTPTransfer.pdb
-C:\Users\iwasaki\Desktop\FTPTransfer\bin\Debug\FluentFTP.xml
-C:\Users\iwasaki\Desktop\FTPTransfer\obj\Debug\FTPTransfer.csprojAssemblyReference.cache
 C:\Users\iwasaki\Desktop\FTPTransfer\obj\Debug\FTPTransfer.Form1.resources
 C:\Users\iwasaki\Desktop\FTPTransfer\obj\Debug\FTPTransfer.Properties.Resources.resources
 C:\Users\iwasaki\Desktop\FTPTransfer\obj\Debug\FTPTransfer.csproj.GenerateResource.cache
 C:\Users\iwasaki\Desktop\FTPTransfer\obj\Debug\FTPTransfer.csproj.CopyComplete
 C:\Users\iwasaki\Desktop\FTPTransfer\obj\Debug\FTPTransfer.exe
 C:\Users\iwasaki\Desktop\FTPTransfer\obj\Debug\FTPTransfer.pdb
+C:\Users\iwasaki\Desktop\FTPTransfer\obj\Debug\FTPTransfer.csprojAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\iwasaki\Desktop\FTPTransfer\obj\Release\FTPTransfer.Form1.resources
+C:\Users\iwasaki\Desktop\FTPTransfer\obj\Release\FTPTransfer.Properties.Resources.resources
+C:\Users\iwasaki\Desktop\FTPTransfer\obj\Release\FTPTransfer.csproj.GenerateResource.cache

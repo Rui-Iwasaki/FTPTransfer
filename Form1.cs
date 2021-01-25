@@ -97,8 +97,10 @@ namespace FTPTransfer
                 return;
             }
 
+            NoticeFile.CreateNoticeFile();
             // Noticeファイルアップロード
-            if(_Client.UploadNotice() == (int)ErrCode.ERROR) 
+
+            if (_Client.UploadNotice() == (int)ErrCode.ERROR) 
             {
                 return;
             }

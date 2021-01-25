@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPTransfer", "FTPTransfer.csproj", "{95141938-6925-4DAC-B9C8-10BF3904C72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95141938-6925-4DAC-B9C8-10BF3904C72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95141938-6925-4DAC-B9C8-10BF3904C72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95141938-6925-4DAC-B9C8-10BF3904C72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95141938-6925-4DAC-B9C8-10BF3904C72F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BC780E0-C8BC-4EEA-A338-3D70E49CC428}
+	EndGlobalSection
+EndGlobal
