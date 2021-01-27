@@ -1,5 +1,5 @@
-﻿using System;
-using FluentFTP;
+﻿using FluentFTP;
+using System;
 using System.Net;
 using System.Security.Authentication;
 
@@ -86,7 +86,7 @@ namespace FTPTransfer
             // Explicit設定
             mReadvalue = IniFile.GetValueInt(INI_SECTION, INI_EXPLICT_SET);
             _Client.EncryptionMode = (FtpEncryptionMode)mReadvalue;// FtpEncryptionMode.None;//none
-            
+
             // プロトコルはNone
             mReadvalue = IniFile.GetValueInt(INI_SECTION, INI_PROTOCOL);
             _Client.SslProtocols = (SslProtocols)mReadvalue;//SslProtocols.None;//tls
@@ -247,7 +247,8 @@ namespace FTPTransfer
         {
             try
             {
-                if(_Client.FileExists(NoticeFile.GetNoticeFileName()) == true)
+
+                if (_Client.FileExists(NoticeFile.GetNoticeFileName()) == true)
                 {
                     return 1;
                 }
@@ -255,6 +256,8 @@ namespace FTPTransfer
                 {
                     return 0;
                 }
+                // if (_Client.FileExists() == true)
+
             }
             catch (Exception ex)
             {
@@ -275,11 +278,11 @@ namespace FTPTransfer
         {
             try
             {
-                if(isExistNoticeOnServer() == 1)
+                if (isExistNoticeOnServer() == 1)
                 {
                     _Client.DeleteFile(NoticeFile.GetNoticeFileName());
                 }
-                
+
                 return 0;
             }
             catch (Exception ex)
@@ -301,12 +304,25 @@ namespace FTPTransfer
         {
             try
             {
-                if (_Client.FileExists("*.zip") == true)
+
+
+                if (isExistNoticeOnServer() == 1)   //noticeファイル確認
                 {
+
+                    DeleteNotice();                 //noticeファイルが残っていた場合削除
                     DisConnectToServer();
                     return true;
                 }
+                
+                FtpListItem[] items = { };         //リストの初期化
+                items = _Client.GetListing();      //FOP側のリストを取得
+                if (items.Length != 0)             //CSVファイルが残っているか確認
+                {
+                    RecordFTPLog("[FAILURE] Files are still on server.");
+                    DisConnectToServer();
 
+                    return true;
+                }
                 return false;
             }
             catch (Exception ex)
@@ -317,6 +333,7 @@ namespace FTPTransfer
             return false;
         }
 
+
         //---------------------------------------------------------------------------
         //  例外エラー処理
         //
@@ -324,7 +341,7 @@ namespace FTPTransfer
         //  引数：例外エラーメッセージ
         //  戻値：
         //---------------------------------------------------------------------------
-        private void ErrorProc(string strErrMsg) 
+        private void ErrorProc(string strErrMsg)
         {
             try
             {
@@ -353,5 +370,5 @@ namespace FTPTransfer
 
     }
 
-        
+
 }

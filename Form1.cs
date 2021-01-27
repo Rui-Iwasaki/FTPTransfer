@@ -6,6 +6,10 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.Net;
+using System.Security.Authentication;
+using System.IO;
+using FluentFTP;
 
 namespace FTPTransfer
 {
@@ -19,10 +23,11 @@ namespace FTPTransfer
 
         private FTPClient _Client;
 
+
         public Form1()
         {
             InitializeComponent();
-
+           
             _Client = new FTPClient(this);
 
             int mCycle = 0;
@@ -88,6 +93,7 @@ namespace FTPTransfer
             // FTP接続
             if (_Client.ConnectToServer() == (int)ErrCode.ERROR)
             {
+               
                 return;
             }
 
@@ -98,20 +104,25 @@ namespace FTPTransfer
             }
 
             NoticeFile.CreateNoticeFile();
+            
             // Noticeファイルアップロード
-
+            
             if (_Client.UploadNotice() == (int)ErrCode.ERROR) 
             {
                 return;
             }
+            
 
             // アップロード
-            for(int i = 0; i < (Paths.Count / 2); i++)
+            for (int i = 0; i < (Paths.Count / 2); i++)
             {
-                if(_Client.Upload(Paths[i * 2], Paths[(i * 2) + 1]) == (int)ErrCode.SUCCESS)
+           
+                // 確認メッセージを表示
+                    if (_Client.Upload(Paths[i * 2], Paths[(i * 2) + 1]) == (int)ErrCode.SUCCESS)
                 {
                     CsvCtrl.DeleteFile(Paths[(i * 2) + 1]);
                 }
+               
             }
 
             // Noticeファイル削除
